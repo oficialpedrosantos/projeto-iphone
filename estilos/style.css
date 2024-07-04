@@ -40,7 +40,7 @@ iframe#tela {
     transform: translate(-50%, -50%);
 
     width: 265px;
-    height: 465px;
+    height: 470px;
 }
 
 section#redes {
@@ -58,6 +58,6 @@ section#redes img {
 section#redes img:hover {
     border: 1px solid rgba(255, 255, 255, 0.548);
     transform: translate(-10px, -10px);
-    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.39);
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.644);
     transition: 0.3s border 0.5s;
 }
